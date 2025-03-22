@@ -1,6 +1,6 @@
 ## Hi there 👋  I'm Zhou
 - 🌱 I’m currently learning Medical Image Analysis
-- 🤔 I’m a Doctor candidate majoring in Computer Science and Technology.
+- 🤔 I’m a PhD candidate majoring in Computer Science and Technology.
 - 📫 How to reach me: zzlbook@163.com
 - You are my ![Visitor Count](https://profile-counter.glitch.me/Zhilin-Zhou/count.svg) visitor,Thank You!
 
