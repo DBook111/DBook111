@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Medical Image Analysis
 - 🎓 I’m a PhD candidate majoring in Computer Science and Technology
 - 📫 How to reach me: zzlbook@163.com
-- You are my ![Profile views](https://komarev.com/ghpvc/?username=Zhilin-Zhou&label=Profile%20views&color=0e75b6&style=flat) visitor,Thank You!
+- You are my !(https://komarev.com/ghpvc/?username=Zhilin-Zhou&label=Profile%20views&color=0e75b6&style=flat) visitor,Thank You!
 
 
 <!--
