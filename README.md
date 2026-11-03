@@ -1,6 +1,6 @@
 ## Hi there 👋  I'm Zhou
 - 🌱 I’m currently learning Medical Image Analysis
-- 🎓 I’m a PhD candidate majoring in Computer Science and Technology
+- 🎓 I’m a PhD student majoring in Computer Science and Technology
 - 📫 How to reach me: zzlbook@163.com
 - You are my ![Views](https://komarev.com/ghpvc/?username=Zhilin-Zhou&label=&color=0e75b6&style=flat) visitor,Thank You!
 
